@@ -154,16 +154,16 @@ ec2:TerminateInstances
 (!Screenshot\02_S3_Bucket_Creation.png)
 
 ### S3 File Upload
-![S3 File Upload](Screenshot\03_S3_File_Upload_Terminal.png)
+![S3 File Upload](Screenshot/03_S3_File_Upload_Terminal.png)
 
 ### S3 List Buckets
-![S3 List Buckets](Screenshot\04_S3_List_Buckets_Terminal.png)
+![S3 List Buckets](Screenshot/04_S3_List_Buckets_Terminal.png)
 
 ### EC2 Instance Running
-![EC2 Running](Screenshot\08_EC2_Console_Instance_Running.png)
+![EC2 Running](Screenshot/08_EC2_Console_Instance_Running.png)
 
 ### EC2 Instance Information
-![S3 upload Information](Screenshot\07_S3_Console_Upload_Verification.png)
+![S3 upload Information](Screenshot/07_S3_Console_Upload_Verification.png)
 
 ---
 
